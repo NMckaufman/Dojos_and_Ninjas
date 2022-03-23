@@ -1,0 +1,25 @@
+-- SELECT * FROM ninjas;
+
+-- INSERT INTO table_name (column_name1, column_name2) 
+-- VALUES('column1_value', 'column2_value');
+-- SELECT * FROM dojos;
+-- INSERT INTO dojos (id, created_at, updated_at, name)
+-- VALUES (1, NOW(), NOW(), 'bubba');
+-- SELECT * FROM dojos;
+-- INSERT INTO dojos (id, created_at, updated_at, name)
+-- VALUES (2, NOW(), NOW(), 'momo');
+-- SELECT * FROM dojos;
+-- INSERT INTO dojos (id, created_at, updated_at, name)
+-- VALUES (3, NOW(), NOW(), 'Kinkcha');
+-- SELECT * FROM dojos;
+-- DELETE FROM dojos WHERE id=1;
+-- DELETE FROM dojos WHERE id=2;
+-- DELETE FROM dojos WHERE id=3;
+-- SELECT * FROM dojos;
+-- INSERT INTO dojos (id, created_at, updated_at, name)
+-- VALUES (1, NOW(), NOW(), 'bubba');
+-- INSERT INTO dojos (id, created_at, updated_at, name)
+-- VALUES (2, NOW(), NOW(), 'momo');
+-- INSERT INTO dojos (id, created_at, updated_at, name)
+-- VALUES (3, NOW(), NOW(), 'Kinkcha');
+-- SELECT * FROM dojos;
